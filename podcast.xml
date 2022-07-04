@@ -22,7 +22,15 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
                  type="audio/mp3" length="803000"/>
     <itunes:duration>13:23</itunes:duration>
   </item>
-  
+  <item>
+    <title>EP.1 - Pun from ME</title>
+    <link>https://pollakritsatasin.github.io/assets/</link>
+    <description>พบกับ ปัน จากหลักสูตรแพทย์ - วิศวะ เพื่อมาอธิบายไขข้อข้องใจให้กระจ่าง ว่าโครงการนี้คืออะไรกันแน่ และมีการเตรียมตัวอย่างไรกว่าจะติด</description>
+    <pubDate>Mon, 4 July 2022, 3:45:00 PM</pubDate>
+    <enclosure url="https://pollakritsatasin.github.io/assets/pilot1.mp3"
+                 type="audio/mp3" length="803000"/>
+    <itunes:duration>13:23</itunes:duration>
+  </item>
 </channel>
 
 </rss>
